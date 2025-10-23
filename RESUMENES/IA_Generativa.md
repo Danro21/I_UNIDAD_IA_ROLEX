@@ -1,0 +1,1 @@
+La Inteligencia Artificial Generativa (IA Generativa) es un subconjunto de la IA que se ha convertido en la punta de lanza de la tecnología actual. Su rasgo distintivo es su capacidad para crear contenido original, coherente y realista que nunca existió antes, en lugar de limitarse a clasificar datos o ejecutar tareas predefinidas.
