@@ -1,11 +1,3 @@
-# Proyecto Unidad I: Inteligencia Artificial
-Este repositorio contiene un resumen de los temas de la Unidad I de la asignatura de Inteligencia Artificial.
-
-## Estructura:
-Historia_de_la_IA.md
-Que_es_la_inteligencia_artificial_(IA).md
-Aplicaciones_de_IA.md
-Diferencias_entre_IA_ML_y_DL.md
-IA_Generativa.md
-Ingeniería_de_Prompts.md
-Ética_y_Responsabilida_de_la_IA.md
+🤖 Explorando la Inteligencia Artificial: Unidad I 🧠
+📘 Resumen del Proyecto
+Este repositorio sirve como un compendio de recursos y resúmenes de los temas fundamentales abordados en la Unidad I de la asignatura de Inteligencia Artificial. El objetivo es proporcionar una base de conocimiento sólida, clara y concisa sobre los conceptos clave que definen el campo de la IA moderna.
